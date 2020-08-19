@@ -24,4 +24,5 @@ These are the libraries that we are going to use :
 
 - Tensorflow '2.3.0'
 - Pandas
+- Sklearn
 - Matplotlib
